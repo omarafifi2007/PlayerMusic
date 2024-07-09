@@ -15,21 +15,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: './img/2.m4a',
+        path: './2.m4a',
         displayName: 'البرمجة والفلوس',
-        cover: 'img/1.png',
+        cover: './1.png',
         artist: 'دروس اونلاين',
     },
     {
-        path: './img/1.m4a',
+        path: './1.m4a',
         displayName: 'من طبيب لمبرمج',
-        cover: './img/3.png',
+        cover: './3.png',
         artist: 'كوديزيلا',
     },
     {
-        path: './img/3.m4a',
+        path: './3.m4a',
         displayName: 'هرب من المانيا جنة المبرمجين',
-        cover: './img/2.png',
+        cover: './2.png',
         artist: 'دروس اونلاين',
     }
 ]
